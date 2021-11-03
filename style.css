@@ -1,0 +1,49 @@
+.body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin:0;
+    padding:0;
+}
+.nav{
+    display:flex;
+    justify-content: space-around;
+}
+#logo{
+    display:inline-flex;
+    margin-right: 12px;
+}
+#academy{
+    font-weight: bolder;
+}
+.nav-links p {
+display:inline-flex;
+margin-right: 12px;
+}
+.banner-container{
+    display:inline-flex;
+    background-color: lightgrey;
+    width:100%;
+    height:auto;
+}
+#imagecontainer{
+    width:60%;
+    height:auto;
+    margin:32px 24px;
+}
+ .banner-text-container{
+     width:40%;
+     height:auto;
+     margin:auto;
+ }
+#banner-text{
+    color:lightseagreen;
+    align-content: center;
+    margin:32px 24px;
+}
+    #banner-title--p{
+        padding:24px 0px;
+    }
+    #start{
+        width:60%;
+        display: block;
+        padding:8px 0px 8px;
+    }
